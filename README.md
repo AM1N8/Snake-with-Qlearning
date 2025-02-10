@@ -16,3 +16,5 @@ Run the training script:
 ```
 python agent.py
 ```
+Note : This project is my attempt to learn Q-learning through a FreeCodeCamp tutorial by implementing a Snake game AI.
+
